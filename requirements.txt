@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+trafilatura
+tenacity
+pydantic
+python-dotenv
+lxml_html_clean
+beautifulsoup4
